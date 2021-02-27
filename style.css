@@ -1,0 +1,26 @@
+img.pic {
+  max-width:20%;
+  border-radius:50%;
+}
+
+h5 {
+  margin-bottom: -14px;
+  font-size: 100%;
+}
+
+p {
+  margin-bottom: -12px;
+  font-size: 90%;
+}
+
+.left, .right {
+  float: left;
+}
+
+.left {
+  width: 300px
+}
+
+.right {
+  width: 400px;
+}
